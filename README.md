@@ -10,3 +10,4 @@ git push -u origin main <br>
 git push origin main <br>
 git checkout -b "new branch" <br>
 git add . <br>
+git merge (branch) - depois de checkout main
