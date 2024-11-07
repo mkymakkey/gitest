@@ -12,4 +12,4 @@ git checkout -b "new branch" <br>
 git add . <br>
 git merge (branch) - depois de checkout main <br>
 
-teste
+teste - uma da manhã e eu me divertindo, o cerebro tá como? seco ou aguado? puro miojo.
